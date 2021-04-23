@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Chat</string>
+    <string name="textView">Hi Leo. What\'s up ??</string>
+    <string name="textView1">I need a new logo for group.</string>
+    <string name="textView2">22:30</string>
+    <string name="textView3">22:31</string>
+    <string name="textView4">22:32</string>
+    <string name="textView5">22:33</string>
+    <string name="textView6">oh. That\'s great</string>
+    <string name="textView7">simple ,minimal and beautiful</string>
+    <string name="textView8">ok , i\'ll start next week.</string>
+    <string name="textView9">send me documents today.</string>
+</resources>
